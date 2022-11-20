@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>easyCfG - knowledge worth sharing</title>
+        <link>/</link>
+        <description>Knowledge worth sharing</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 20 Nov 2022 00:08:57 &#43;0100</lastBuildDate>
+            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>/first_post/</link>
+    <pubDate>Sun, 20 Nov 2022 00:08:57 &#43;0100</pubDate>
+    <author>Speegel</author>
+    <guid>/first_post/</guid>
+    <description><![CDATA[Pexels eduardo dutra 2115217
+Pexels josh sorenson 1714208
+Pexels soumil kumar 735911]]></description>
+</item>
+<item>
+    <title>Cal</title>
+    <link>/cal/</link>
+    <pubDate>Sun, 30 Jul 2017 23:22:45 &#43;0000</pubDate>
+    <author>Speegel</author>
+    <guid>/cal/</guid>
+    <description><![CDATA[PTA Meetings We’d love for you to become a member of the PTA.
+Events qweqwewq
+asd]]></description>
+</item>
+</channel>
+</rss>
